@@ -1,4 +1,4 @@
-# PORTFOLIO
+# TRIANGLE-TRACKER
 #### {This is an application designed to check on sides of a triangle}, {03/06/2019}
 
 ## Author name
