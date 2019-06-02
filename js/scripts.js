@@ -1,3 +1,3 @@
-function formvalidation() {
- alert('Hello');
+var = function myfunction() {
+  alert("hello");
 }
