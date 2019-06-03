@@ -13,7 +13,6 @@ alert("Not A Triangle");
 alert("scalene");
 }
 }
-return(formvalidation());
 function reset(){
    var sideX=parseInt(document.getElementById('sideZ').value);
    var sideY=parseInt(document.getElementById('sideZ').value);
