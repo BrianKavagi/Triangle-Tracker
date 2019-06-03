@@ -5,17 +5,21 @@
   BRIAN KAVAGI
 
 ## Description
-{This is a project I have created at moringa school for computer programming }
+{This is a project I have created at moringa school for computer programming based on application used to check on sides of a triangle and to return the name of the triangle once the values have been typed}
 
 ## Setup/Installation Requirements
 * git clone
-* cd Portfolio-landing
+* cd Triangle-Tracker
 * Open index.html from a browser
 
 ## Technologies Used
  * html
  * css
  * scripts.js
+
+## Contact Information
+ * Kindly contact me via my email address at:
+   briankavagi06@gmail.com
 
 ## Copyright and License
 Apache License
