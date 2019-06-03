@@ -17,6 +17,13 @@
  * css
  * scripts.js
 
+## Behaviour Driven Development
+  Behaviour    | Input    |  Output
+Equilateral    | (3,3,3)  | This Is an Equilateral Triangle.
+ Isoceles      | (3,3,5)  | This Is an Isoceles Triangle.
+  Scalene      |(10,20,30)| This Is a scalene Triangle.
+ Not a triangle|(14,10,12)| This Is not a Triangle.
+
 ## Contact Information
  * Kindly contact me via my email address at:
    briankavagi06@gmail.com
